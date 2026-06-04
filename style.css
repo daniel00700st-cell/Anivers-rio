@@ -76,13 +76,13 @@ header h1{
 .cartinhas{
     display:flex;
     gap:25px;
-    flex-wrap:wrap;
+    flex-direction:column;
     justify-content:center;
     padding:30px;
 }
 
 .carta{
-    width:100%;
+    width:80%;
     background:white;
     padding:25px;
     border-radius:20px;
