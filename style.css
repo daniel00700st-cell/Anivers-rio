@@ -83,6 +83,7 @@ header h1{
 
 .carta{
     width:100%;
+    justify-content:center;
     background:white;
     padding:25px;
     border-radius:20px;
