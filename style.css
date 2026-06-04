@@ -83,11 +83,13 @@ header h1{
 }
 
 .carta{
-    width:min(95vw, 900px);
+    width:95%;
+    max-width:900px;
     background:white;
     padding:25px;
     border-radius:20px;
     box-shadow:0 10px 20px rgba(0,0,0,.2);
+    margin-bottom:30px;
 }
 
 
